@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Accounts4Fixer
+
+  Created by MIYOKAWA, Nobuyoshi on 2018/08/16.
+  Copyright © 2018年 MIYOKAWA, Nobuyoshi. All rights reserved.
+*/
+
+"invalid_value_as_port_number" = "The value \"%@\" is invalid.";
+"description_label" = "Description: ";
+"hostname_label" = "Host Name:";
+"port_label" = "Port: ";
+"prefix_label" = "IMAP Path Prefix:";
+"allows_insecure_button" = "Allow insecure authentication";
+"disable_dynamic_configuration_button" = "Automatically manage connection settings";
+"save_button" = "Save";
+"reset_button" = "Reset";
+"create_backup_button" = "Create Backup";

@@ -1,0 +1,7 @@
+#
+*.pbxuser
+*.xcuserstate
+xcuserdata/
+
+#
+Carthage/

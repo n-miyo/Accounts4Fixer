@@ -14,11 +14,11 @@ This application allows you to set some properties for Mail.app settings.
 
 ## Screen Shot
 
-
+![ScreenShot1](https://raw.githubusercontent.com/n-miyo/Accounts4Fixer/master/ScreenShots/1.png)
 
 ## How to compile it.
 
-You can build this source code with Xcode 8 with this instruction.  You also can download pre build binary from here,
+You can build this source code with Xcode 8 with this instruction.  You also can download pre build binary from [here](https://github.com/n-miyo/Accounts4Fixer/releases/download/v1.0.0/Accounts4Fixer-v100.app.zip), or,
 
 1. Install `carthage` command.  One of the easy way is to use `brew` command.
 ```

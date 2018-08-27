@@ -14,7 +14,6 @@
 		406BF4AA20E3133A008FB37A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406BF4A820E3133A008FB37A /* Main.storyboard */; };
 		407F686621252D5300A9AAE4 /* SQLite.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = 407F686521252D5300A9AAE4 /* SQLite.framework.dSYM */; };
 		4088D17021257FDC00FA78D4 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4088D17221257FDC00FA78D4 /* Localizable.strings */; };
-		4088D17C21264B6D00FA78D4 /* SQLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 401FFC6B20E35458004D1210 /* SQLite.framework */; };
 		4088D17D21264B6D00FA78D4 /* SQLite.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 401FFC6B20E35458004D1210 /* SQLite.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4088D18521264E8600FA78D4 /* Accounts4FixerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4088D18421264E8600FA78D4 /* Accounts4FixerTests.swift */; };
 		4088D18D2126506A00FA78D4 /* AccountPropertyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4088D18C2126506A00FA78D4 /* AccountPropertyTests.swift */; };
@@ -88,7 +87,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4088D17C21264B6D00FA78D4 /* SQLite.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
